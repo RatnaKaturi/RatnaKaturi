@@ -1,16 +1,46 @@
-## Hi there 👋
+#👋Hi there 👋 I'm Ratna Kumari
 
-<!--
-**RatnaKaturi/RatnaKaturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year CSE Student  
+💻 Passionate about Artificial Intelligence, Machine Learning, and Full Stack Development  
+🚀 Currently working on LLMs, RAG Applications, and Transformer-based Projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🌱 Currently Learning
+- Data Structures & Algorithms
+- System Design
+- Advanced Python
+- Generative AI & RAG
+
+---
+
+## 💻 Tech Stack
+- Python
+- Django
+- SQL
+- Machine Learning
+- Deep Learning
+- Transformers
+- Git & GitHub
+
+---
+
+## 🚀 Projects
+### 🔹 Attention Head Analysis in Transformers
+Performed interpretability analysis on Transformer models using masking experiments and attention head contribution analysis.
+
+### 🔹 E-Commerce Web Application
+Built a responsive full-stack e-commerce application with authentication and product management features.
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/ratna-kumari-katuri-91a406318
+- GitHub: github.com/RatnaKaturi
+
+---
+
+## ⚡ Fun Fact
+I enjoy exploring AI technologies and building real-world applications using LLMs and modern web technologies.
+
 -->
