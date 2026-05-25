@@ -1,6 +1,6 @@
 #👋Hi there 👋 I'm Ratna Kumari
 
-🎓 Final Year CSE Student  
+🎓 Final Year AIML Student  
 💻 Passionate about Artificial Intelligence, Machine Learning, and Full Stack Development  
 🚀 Currently working on LLMs, RAG Applications, and Transformer-based Projects  
 
