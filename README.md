@@ -1,6 +1,6 @@
 <div align="center">  
 
-# 💫 Hey there, I'm Ratna Kumari!  
+# 💫 Hey there, I'm Ratna Kumari Katuri!  
 
 <!-- ANIMATED BANNER -->  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=250&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=45&fontColor=00d2ff&animation=twinkling&fontAlignY=35" width="100%" alt="banner" />  
@@ -9,7 +9,7 @@
 
 <!-- TYPING SVG -->  
 <a href="https://git.io/typing-svg">  
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Final+Year+CSE+Student;Deep+Learning+%26+NLP+Explorer;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />  
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Final+Year+AIML+Student;Deep+Learning+%26+NLP+Explorer;Full+Stack+Developer;Open+Source+Contributor" alt="Typing SVG" />  
 </a>  
 
 <br/><br/>  
@@ -28,7 +28,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />  
 
-I am a **Final Year CSE Student** deeply passionate about **Artificial Intelligence**, **Machine Learning**, **LLMs**, and **Full Stack Development**. I believe in building intelligent systems that solve real-world problems and continuously push myself to learn emerging technologies.  
+I am a **Final Year AIML Student** deeply passionate about **Artificial Intelligence**, **Machine Learning**, **LLMs**, and **Full Stack Development**. I believe in building intelligent systems that solve real-world problems and continuously push myself to learn emerging technologies.  
 
 - 🔭 Currently exploring **Large Language Models (LLMs)** and **RAG Applications**  
 - 🌱 Diving deep into **DSA**, **System Design**, and **Generative AI**  
